@@ -10,6 +10,6 @@
 
 [My Codepens](https://codepen.io/AndrewT51/pens/public)
 
-[Codewars solutions](https://www.codewars.com/users/AndrewT51/completed_solutions)
+[Codewars completed Katas](https://www.codewars.com/users/AndrewT51/completed)
 
 [Contribution to AWS Amplify](https://github.com/aws-amplify/amplify-js/graphs/contributors) as AndrewT51
